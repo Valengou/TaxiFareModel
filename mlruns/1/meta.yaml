@@ -1,0 +1,4 @@
+artifact_location: file:///home/valengou/code/Valengou/TaxiFareModel/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: test_experiment
